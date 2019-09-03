@@ -1,6 +1,6 @@
- # Createbit_IR for micro-bit
+ # createbit_IR for micro-bit
 
-Extension for XR-Robot Createbit_IR
+Extension for XR-Robot createbit_IR
 
 Note: IR receiver for XR-Robot receiver
 

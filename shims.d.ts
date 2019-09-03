@@ -4,7 +4,7 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace Createbit_IR {
+declare namespace createbit_IR {
 
     /**
      * button pushed.
