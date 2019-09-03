@@ -4,20 +4,20 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace Createbit_IR {
+declare namespace createbit_IR {
 
     /**
      * button pushed.
      */
     //% blockId=ir_received_left_event
-    //% block="on |%btn| button pressed" shim=Createbit_IR::onPressEvent
+    //% block="on |%btn| button pressed" shim=createbit_IR::onPressEvent
     function onPressEvent(btn: RemoteButton, body: () => void): void;
 
     /**
      * initialises local variablesssss
      */
     //% blockId=ir_init
-    //% block="connect ir receiver to %pin" shim=Createbit_IR::init
+    //% block="connect ir receiver to %pin" shim=createbit_IR::init
     function init(pin: Pins): void;
 }
 
