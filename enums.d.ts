@@ -46,7 +46,7 @@
     Num8 = 0x52,
     Num9 = 0x4A,
     }
-declare namespace Mbit_IR {
+declare namespace Createbit_IR {
 }
 
 // Auto-generated. Do not edit. Really.
